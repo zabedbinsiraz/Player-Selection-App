@@ -1,0 +1,22 @@
+.playersContainer{
+    display: flex;
+    box-sizing: border-box;
+    background-color: aquamarine;
+}
+
+.playerContainer{
+    width: 80%;
+    margin-left: 10px;
+    margin-right: 10px;
+    background-color: azure;
+   
+}
+.cartContainer{
+    width: 16%;
+    background-color:white;
+    border: 1px solid saddlebrown;
+    text-align: center;
+    padding: 5px;
+    border-radius: 10px;
+    margin-top:10px;
+}

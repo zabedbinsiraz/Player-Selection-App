@@ -1,0 +1,38 @@
+.player{
+    
+    border: 1px solid cadetblue;
+    border-radius: 5px;
+    padding: 5px;
+    margin: 10px;
+    height: 350px;
+    width: 180px;
+    float: left;
+
+}
+
+.playerImg{
+    height: 200px;
+    width: 170px;
+
+}
+.playerInfo{
+    
+    text-align: center;
+}
+
+h3{
+    font-weight: bold;
+    line-height: 25px;
+    color: chocolate;
+}
+h5{
+    color: cadetblue;
+}
+.btn{
+    margin: 5px;
+    padding: 5px;
+    font-weight: bold;
+    color: chocolate;
+    border: none;
+    border-radius: 5px;
+}

@@ -1,0 +1,12 @@
+.appContainer{
+    text-align: center;
+    line-height: 60px;
+    font-weight: 800;
+    background-color: yellowgreen;
+  
+  }
+   .appContainer h1{
+     
+     color: crimson;
+    
+   }
